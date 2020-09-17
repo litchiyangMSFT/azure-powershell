@@ -18,6 +18,8 @@
         - Additional information about change #1
 --->
 
+* Added New GatewayType `LocalGateway` to cmdlet `New-AzVirtualNetworkGateway`
+
 ## Upcoming Release
 * Updated cmdlets to enable setting of ConnectionMode on Virtual Network Gateway Connections.
     - `New-AzVirtualNetworkGatewayConnection`
